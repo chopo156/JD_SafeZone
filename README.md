@@ -6,7 +6,7 @@
 </h4>
 <h4 align="center">
 	<a href="https://github.com/JokeDevil/JD_SafeZone/releases/latest" title=""><img alt="Release" src="https://img.shields.io/github/v/release/JokeDevil/JD_SafeZone"></a>
-	<a href="LICENSE" title=""><img alt="Licence" src="https://img.shields.io/github/license/JokeDevil/JD_logs.svg"></a>
+	<a href="LICENSE" title=""><img alt="Licence" src="https://img.shields.io/github/license/JokeDevil/JD_SafeZone.svg"></a>
 	<a href="https://discord.gg/m4BvmkG" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/721339695199682611/widget.png"></a>
 </h4>
 <h4 align="center">
