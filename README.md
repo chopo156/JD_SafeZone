@@ -2,10 +2,6 @@
 <h4 align="center">
 	<a href="#download--installation">Download & Installation</a>
 	|
-	<a href="#adding-more-logs">Adding more logs</a>
-	|
-	<a href="#images">Images</a>
-	|
 	<a href="https://docs.jokedevil.com/JD_logs">Documentation</a>
 </h4>
 <h4 align="center">
